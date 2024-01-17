@@ -24,10 +24,6 @@ LinkedIn:  https://za.linkedin.com/in/herman-ngwenya2302
 <br/>
 Email: hermanbngwenya@gmail.com
 
-## This is ME!!! 😁😁😁
-
-![3a_361A4766](https://github.com/HermanNgwenya/HermanNgwenya/assets/125870378/4e618096-4d2c-4830-84c8-acbb28fc3480)
-
 <!---
 HermanNgwenya/HermanNgwenya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
